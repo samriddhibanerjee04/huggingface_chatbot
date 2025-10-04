@@ -16,8 +16,11 @@ This project demonstrates:
 ## 🧩 Project Structure
 
 ├── model_loader.py # Handles model and tokenizer loading
+
 ├── chat_memory.py # Implements sliding window conversation memory
+
 ├── interface.py # CLI loop integrating model + memory
+
 └── README.md #Documentation
 
 
