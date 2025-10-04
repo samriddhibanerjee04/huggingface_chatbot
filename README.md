@@ -29,8 +29,8 @@ This project demonstrates:
 
 ### 1. Clone the Repository
 ```
-git clone https://github.com/samriddhibanerjee04/local-chatbot.git
-cd local-chatbot
+git clone https://github.com/samriddhibanerjee04/huggingface_chatbot.git
+cd huggingface_chatbot
 ```
 
 ### 2. Create a Virtual Environment
