@@ -29,19 +29,15 @@ This project demonstrates:
 
 ### 1. Clone the Repository
 
-```bash
 git clone https://github.com/samriddhibanerjee04/local-chatbot.git
 cd local-chatbot
 
-
 ### 2. Create a Virtual Environment
 
-```bash
 python -m venv venv
 
 
 ### 3. Activate the Environment
-
 Windows (PowerShell):
 
 venv\Scripts\activate
