@@ -61,14 +61,20 @@ Chatbot (type /exit to quit)
 
 Loading model: google/flan-t5-base on CPU
 
+
+
 You: Hi
+
 Bot: Hello. How can I help you?
 
 You: What is the capital of Japan?
+
 Bot: The capital of Japan is Tokyo.
 
 You: Thanks!
+
 Bot: You’re welcome!
 
 You: /exit
+
 Exiting chatbot...
